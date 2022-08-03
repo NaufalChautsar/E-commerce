@@ -2,7 +2,7 @@
 
 <br></br>
 ### Prepare dependencies
-    - composer install / update
+    - composer update
     - cp .env.example .env
 
 ### Change Database Config
