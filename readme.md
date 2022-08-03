@@ -11,11 +11,6 @@
 ### Generate and Migration
     - php artisan key:generate
     - php artisan migrate
-    - php artisan db:seed --class=AdminSeeder
 
 ### Run PHP Development Server
     - php artisan serve
-    
-### Tailwind CSS
-    - npm install laravel-mix@latest --save-dev
-    - npm run watch
